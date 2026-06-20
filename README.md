@@ -1,3 +1,9 @@
+# 🌐 ObsidianKit — Static Deployment Repo (`obsidiankit.me`)
+
+> **Note:** This repository (`KonnichiwaAman.github.io`) contains the source and static deployment builds for **[ObsidianKit](https://github.com/amandeavor/ObsidianKit)**, hosted live at **[obsidiankit.me](https://obsidiankit.me)**.
+
+---
+
 # ObsidianKit
 
 ObsidianKit is a privacy-first, browser-native toolbox for PDF, image, media, calculator, and utility workflows.
